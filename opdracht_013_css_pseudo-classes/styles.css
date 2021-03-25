@@ -1,0 +1,37 @@
+
+
+#text-field:focus {
+    
+    border: 2px solid;
+    outline-style: none;
+    box-shadow: none;
+    border-color: aqua;
+    
+}
+
+:visited {
+    color: white;
+}
+
+.nav-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav {
+    background-color: darkblue;
+}
+
+.current-page {
+    background-color: grey;
+}
+
+.link:hover {
+    background-color: lightblue;
+}
